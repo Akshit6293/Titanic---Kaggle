@@ -1,0 +1,8 @@
+# Titanic---Kaggle
+My attempt for Predicting the number of survivors with artificial neaural network
+I have used random forest and artificial neaural network. I used Kears library for tensor flow - backend.
+I have done Exploratory data analysis on the dataset nusing seaborn library and matplotlib library. 
+I have also imputed the null values and dropped the unnecessary columns from my code. 
+
+Feel free to check the approach and kindly point out any improvements.
+Thanks
